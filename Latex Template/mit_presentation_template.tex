@@ -1,0 +1,43 @@
+\documentclass{beamer}
+%Information to be included in the title page:
+\usetheme{Boadilla}
+\definecolor{MITRed}{RGB}{163,31,52}
+\definecolor{MITGray}{RGB}{138,139,140}
+\usecolortheme[named=MITRed]{structure}
+
+\setbeamertemplate{navigationsymbols}{}
+\setbeamertemplate{headline}{\hfill\includegraphics[width=1.5cm]{./MIT-logo-red-gray.png}\hspace{0.4cm}\vspace{-1.2cm}}
+\beamertemplatenavigationsymbolsempty
+\setbeamertemplate{blocks}[default]
+\setbeamercolor{item projected}{bg=MITGray}
+\AtBeginSection[]
+{
+	\begin{frame}
+		\frametitle{Outline}
+		\tableofcontents[currentsection]
+	\end{frame}
+}
+\AtBeginSubsection[]
+{
+	\begin{frame}
+		\frametitle{Outline}
+		\tableofcontents[currentsection,currentsubsection]
+	\end{frame}
+}
+
+\begin{document}
+	\title[Myerson (1993)]{``Incentives to Cultivate Favored Minorities Under Alternative Electoral Systems''}
+	\subtitle{Myerson (1993)}
+	\author[Suyeol]{Suyeol Yun}
+	\institute[MIT]{Massachusetts Institute of Technology}
+	\date{June 30, 2022}
+	\frame{\titlepage}
+	\section{Background}
+	\begin{frame}{Guiding Question}
+		\begin{block}{}
+			{\large ``In an election campaign with many competing candidates, a candidate can try to appeal broadly to all voters equally or concentrate more narrowly on winning the support of minorities or special interest groups...
+				\vskip5mm
+				\textit{Which strategy is better for winning an election?}'' (pg. 856)}
+		\end{block}
+	\end{frame}
+\end{document}
