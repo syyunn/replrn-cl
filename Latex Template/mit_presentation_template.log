@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.22)  30 JUN 2022 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.22)  30 JUN 2022 15:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -800,7 +800,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  131i,15n,132p,488b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on "/Users/syyun/replrn-cl/Latex Template/mit_presentation_template.pdf" (3 pages, 49053 bytes).
+Output written on "/Users/syyun/replrn-cl/Latex Template/mit_presentation_template.pdf" (3 pages, 48681 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
