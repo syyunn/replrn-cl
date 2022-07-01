@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.22)  30 JUN 2022 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.22)  1 JUL 2022 09:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,19 +763,78 @@ Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 34.
 (pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/syyun/replrn-cl/Latex Template/./MIT-logo-red-gray.png>] (/Users/syyun/replrn-cl/Latex Template/mit_presentation_template.toc)
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/syyun/replrn-cl/Latex Template/./MIT-logo-red-gray.png>]
+<./images/balancing.png, id=34, 257.96375pt x 103.38625pt>
+File: ./images/balancing.png Graphic file (type png)
+<use ./images/balancing.png>
+Package pdftex.def Info: ./images/balancing.png  used on input line 45.
+(pdftex.def)             Requested size: 180.57338pt x 72.36987pt.
 File: ./MIT-logo-red-gray.png Graphic file (type png)
 <use ./MIT-logo-red-gray.png>
-Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 35.
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 45.
 (pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
  [2
+
+ </Users/syyun/replrn-cl/Latex Template/./images/balancing.png>]
+File: ./MIT-logo-red-gray.png Graphic file (type png)
+<use ./MIT-logo-red-gray.png>
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 59.
+(pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
+ [3
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 75.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+File: ./MIT-logo-red-gray.png Graphic file (type png)
+<use ./MIT-logo-red-gray.png>
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 75.
+(pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
+ [4
 
 ]
 File: ./MIT-logo-red-gray.png Graphic file (type png)
 <use ./MIT-logo-red-gray.png>
-Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 42.
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 90.
 (pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
- [3
+ [5
+
+]
+File: ./MIT-logo-red-gray.png Graphic file (type png)
+<use ./MIT-logo-red-gray.png>
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 105.
+(pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
+ [6
+
+]
+File: ./MIT-logo-red-gray.png Graphic file (type png)
+<use ./MIT-logo-red-gray.png>
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 121.
+(pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
+ [7
+
+]
+File: ./MIT-logo-red-gray.png Graphic file (type png)
+<use ./MIT-logo-red-gray.png>
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 139.
+(pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
+ [8
+
+]
+File: ./MIT-logo-red-gray.png Graphic file (type png)
+<use ./MIT-logo-red-gray.png>
+Package pdftex.def Info: ./MIT-logo-red-gray.png  used on input line 146.
+(pdftex.def)             Requested size: 42.67912pt x 22.52367pt.
+ [9
 
 ]
 \tf@nav=\write6
@@ -792,18 +851,18 @@ Package rerunfilecheck Info: File `mit_presentation_template.out' has not change
 (rerunfilecheck)             Checksum: 535270E7CC3AD4E6703C024AE60ADC93;93.
  ) 
 Here is how much of TeX's memory you used:
- 20508 strings out of 478994
- 383214 string characters out of 5858184
- 663467 words of memory out of 5000000
- 37549 multiletter control sequences out of 15000+600000
- 405908 words of font info for 35 fonts, out of 8000000 for 9000
+ 20592 strings out of 478994
+ 384560 string characters out of 5858184
+ 674353 words of memory out of 5000000
+ 37598 multiletter control sequences out of 15000+600000
+ 411136 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,15n,132p,488b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb>
-Output written on "/Users/syyun/replrn-cl/Latex Template/mit_presentation_template.pdf" (3 pages, 48681 bytes).
+ 131i,15n,132p,488b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "/Users/syyun/replrn-cl/Latex Template/mit_presentation_template.pdf" (9 pages, 151465 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
